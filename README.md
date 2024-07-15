@@ -1,7 +1,7 @@
 ![logo]( https://github.com/ali-99-ali/ali-99-ali/blob/main/Cover-Baner.jpg)
 <h1 align="center">Hi 👋, I'm Ali Haider</h1>
 <h3 align="center">A passionate Web developer& SEO specialist from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2VP2DZ7Vh81yfGDMbrgFz6&ust=1721131433102000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjW7q6AqYcDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-99-ali&label=Profile%20views&color=0e75b6&style=flat" alt="ali-99-ali" /> </p>
 
 - 🔭 I’m currently working on [SEO](https://sites.google.com/view/alihaider-portfolio/home)
